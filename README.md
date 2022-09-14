@@ -28,7 +28,7 @@ Since I dont have the complete circuit of the Air cooler, I tried to place only 
 
 In this last pic you can see how mine got in the end, just a small tip: The power connector has a layer of protection, so it is hard to solder there, I need to scratch with a knife until get a proper connection, but got ugly as hell.
 
-![Board](/miscs/Board.JPG "Board")
+![Board](/miscs/board.JPG "Board")
 
 ## IOT
 
