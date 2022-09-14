@@ -8,10 +8,10 @@
 
  ## Material
 
- I recomend for you to use a NodeMCU in the place, since is cheaper and will do the same.
+ I recommend  for you to use a NodeMCU in the place, since is cheaper and will do the same.
 
  * [NodeMCU (ESP8266)](https://www.amazon.se/-/en/dp/B06Y1ZPNMS/ref=sr_1_9) or [ESP32](https://www.amazon.se/-/en/dp/B08LL7ZH2W/ref=sr_1_6)
- * [Day Air Cooler](https://www.pricerunner.dk/pl/453-5208957/Indeklima/DAY-Air-cooler-5W-Sammenlign-Priser) (You can find others similars to this one)
+ * [Day Air Cooler](https://www.pricerunner.dk/pl/453-5208957/Indeklima/DAY-Air-cooler-5W-Sammenlign-Priser) (You can find others similar to this one)
  * Soldering Iron
  * Cables
  * Heat shrink insulator
