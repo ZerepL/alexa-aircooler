@@ -3,7 +3,7 @@
 
  Waking up in the middle of the night to turn on the humidifier that is far away, is not cool. I had this cheaper Air cooler that I paid about 10 dolars, so I decided to integrate the main board with a spare ESP32 and it worked very well.
 
- ![Device](/miscs/device.jpg "Device")
+ ![Device](/miscs/device.JPG "Device")
 
 
  ## Material
@@ -28,7 +28,7 @@ Since I dont have the complete circuit of the Air cooler, I tried to place only 
 
 In this last pic you can see how mine got in the end, just a small tip: The power connector has a layer of protection, so it is hard to solder there, I need to scratch with a knife until get a proper connection, but got ugly as hell.
 
-![Board](/miscs/Board.jpg "Board")
+![Board](/miscs/Board.JPG "Board")
 
 ## IOT
 
